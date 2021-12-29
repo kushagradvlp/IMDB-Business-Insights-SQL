@@ -1,4 +1,4 @@
-# IMDB-Business-Insights-SQL
+# IMDB-Business-Insights-SQLAndPython
 Business insights from IMDB using SQL
 
 This project aims to develop database modeling of the major functions of IMDb. The primary users of such a database could be anyone who has an interest in sharing their thoughts about movies, reading movie reviews, or trying to find more movies that they will enjoy. Users will be able to search for movies based on the name, rating, genre, cast, release date, director, production language or country produced. They will also be able to write reviews and provide ratings of movies they have seen, that will then be available to all other users to help drive more informed decisions about the movies they should consume. This database would act as a backend of a website. The users would primarily interact with the website which would pull data from this database based on their requests. 
